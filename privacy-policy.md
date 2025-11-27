@@ -2,7 +2,7 @@
 Last Updated: January 2025
 
 1. Introduction
-At Minguinho, we respect your privacy and are committed to protecting your personal data. Minguinho is owned and operated by Çınar Aktaş (Istanbul, Turkey). This Privacy Policy explains how we collect, use, and safeguard your information when you use our self-improvement application.
+At Minguinho, we respect your privacy and are committed to protecting your personal data. Minguinho is owned and operated by Çınar Aktaş (Ankara, Turkey). This Privacy Policy explains how we collect, use, and safeguard your information when you use our self-improvement application.
 
 2. Information We Collect
 We collect the following types of information:
@@ -50,7 +50,7 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 If you have questions about this Privacy Policy, please contact us at:
 
 Email: cinaraktas22@icloud.com
-Mailing Address: Çınar Aktaş, Istanbul, Turkey
+Mailing Address: Çınar Aktaş, Ankara, Turkey
 
 We will respond to your inquiry as soon as possible.
 
