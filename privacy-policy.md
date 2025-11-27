@@ -29,6 +29,7 @@ Your data is primarily stored locally on your device using UserDefaults. We impl
 
 5. Third-Party Services
 We use Apple's App Store for in-app purchases and subscriptions. Apple's privacy policy applies to payment processing. Aside from Apple’s billing tools, we currently do not use third-party analytics or advertising SDKs, which means your activity is not shared with external marketing partners.
+We do not use third-party analytics, advertising, or tracking SDKs.
 
 6. Your Rights
 You have the right to:
@@ -36,7 +37,8 @@ You have the right to:
 • Access your personal data
 • Correct inaccurate information
 • Delete your account and all associated data
-• Export your data
+• Export your data:
+Users may export their data by contacting us at the email above. Since all data is stored locally on the device, exporting may require following instructions we provide for accessing the app’s local storage.
 
 To exercise these rights, please contact us at cinaraktas22@icloud.com or use the "Delete Profile" feature in settings.
 
@@ -54,5 +56,9 @@ Mailing Address: Çınar Aktaş, Ankara, Turkey
 
 We will respond to your inquiry as soon as possible.
 
-10. Data Retention & Deletion
+10. Consent for Sensitive Data
+By using features such as journaling, meditation logs, or wellness tracking, you consent to the processing of this optional data locally on your device. This data is never transmitted to our servers.
+
+11. Data Retention & Deletion
 We retain your data only for as long as you maintain your profile within Minguinho. Because all information is stored locally, deleting the app or using the "Delete Profile" option in Settings permanently removes your data. We do not keep any server-side backups, so deleted information cannot be recovered.
+
