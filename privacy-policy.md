@@ -30,6 +30,7 @@ Your data is primarily stored locally on your device using UserDefaults. We impl
 5. Third-Party Services
 We use Apple's App Store for in-app purchases and subscriptions. Apple's privacy policy applies to payment processing. Aside from Apple’s billing tools, we currently do not use third-party analytics or advertising SDKs, which means your activity is not shared with external marketing partners.
 We do not use third-party analytics, advertising, or tracking SDKs.
+Refunds for subscriptions or in-app purchases are handled directly by Apple. You may request a refund through your Apple ID account or via Apple’s support portal at reportaproblem.apple.com. We do not process refunds directly.
 
 6. Your Rights
 You have the right to:
