@@ -17,4 +17,4 @@ This repository exists to provide publicly accessible, version-controlled legal 
 Contact
 
 For any questions regarding these documents, please contact:
-📧 cinaraktas22@icloud.com
+📧 cinaraktas22@gmail.com
